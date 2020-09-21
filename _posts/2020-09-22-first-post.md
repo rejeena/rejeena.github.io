@@ -1,17 +1,4 @@
 ---
-title:  "처음으로 github.io 블로그를 만들어 본 날"
-excerpt: "하나둘 내가 해보고 싶던 일들을 직접 해보기로 했다."
-
-categories:
-  - Blog
-tags:
-  - Blog
-last_modified_at: 2020-09-22T08:06:00-05:00
----
-
-
-
----
 
 title: "처음으로 github.io 블로그를 만들어 본 날"
 
@@ -21,11 +8,11 @@ excerpt: "하나둘 내가 해보고 싶던 일들을 직접 해보기로 했다
 
 categories:
 
-​	- Blog
+	- Blog
 
 tags:
 
-​	- Blog
+	- Blog
 
 last_modified_at: 2020-09-22
 
